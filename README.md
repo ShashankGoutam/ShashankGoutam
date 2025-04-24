@@ -21,6 +21,13 @@ I'm a passionate software developer from Bengaluru, India 🇮🇳, with a keen 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
+## 📊 GitHub Activity Overview
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShashankGoutam&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=donut&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical)
+
+
 
 ## 📈 GitHub Stats
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical)
