@@ -28,10 +28,5 @@ I'm a passionate software developer from Bengaluru, India 🇮🇳, with a keen 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical)
 
 
-
-## 📈 GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-goutam-735924288/)
