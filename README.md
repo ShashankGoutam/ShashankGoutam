@@ -2,7 +2,7 @@
 
 I'm a passionate software developer from Bengaluru, India 🇮🇳, with a keen interest in building scalable web applications and exploring new technologies.
 
-- 🔭 I’m currently working on [AI_ML_IntrusionDetectionSystem](https://github.com/ShashankGoutam/AI_ML_IntrusionDetectionSystem.git)
+- 🔭 I’m currently working on [EmployeeManagement_SpringBoot](https://github.com/ShashankGoutam/EmployeeManagement_SpringBoot.git)
 - 🌱 Currently learning: **Machine Learning**, **PyTorch**, and **Cloud AI Services**
 - 💬 Ask me about JavaScript, Python, Data Analytics, Transfer Learning and more
 - 📫 Reach me at: [shashankgoutam73@gmail.com](mailto:shashankgoutam73@gmail.com)
