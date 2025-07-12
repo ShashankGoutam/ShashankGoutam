@@ -40,7 +40,7 @@ I'm a passionate software developer from Bengaluru, India 🇮🇳, with a keen 
 ## 📊 GitHub Activity Dashboard
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShashankGoutam&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=donut&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical)
 
 
