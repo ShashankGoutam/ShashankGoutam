@@ -43,12 +43,11 @@ I'm a passionate software developer from Bengaluru, India 🇮🇳, with a keen 
 ## 📊 GitHub Activity Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShashankGoutam&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ShashankGoutam&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
 
 ---
 
