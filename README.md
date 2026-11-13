@@ -1,11 +1,11 @@
 <!--
   GitHub Profile README
-  Edit this file in the ShashankGoutam/ShashankGoutam repository.
+  Dynamic third-party statistics images were removed to avoid broken embeds.
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:164e63,100:0ea5e9&text=SHASHANK%20GOUTAM&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="Shashank Goutam profile banner" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Shashank Goutam — Software Developer" />
 
   <p>
     <a href="https://github.com/ShashankGoutam"><img src="https://img.shields.io/badge/GitHub-ShashankGoutam-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -31,24 +31,11 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <ul>
-        <li>🔭 Currently building and improving software projects, including <a href="https://github.com/ShashankGoutam/EmployeeManagement_SpringBoot">Employee Management (Spring Boot)</a> and <a href="https://github.com/ShashankGoutam/Expense_Tracker">Expense Tracker</a>.</li>
-        <li>🌱 Exploring <b>Machine Learning, PyTorch, and Cloud AI services</b>.</li>
-        <li>🧠 Interested in backend development, data-driven applications, AI, and cybersecurity.</li>
-        <li>💬 Ask me about Python, JavaScript, Java, data analytics, and transfer learning.</li>
-        <li>📍 Based in Bengaluru, India.</li>
-      </ul>
-    </td>
-    <td width="42%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub profile statistics" />
-      </div>
-    </td>
-  </tr>
-</table>
+- 🔭 Building and improving software projects, including [Employee Management (Spring Boot)](https://github.com/ShashankGoutam/EmployeeManagement_SpringBoot) and [Expense Tracker](https://github.com/ShashankGoutam/Expense_Tracker).
+- 🌱 Exploring **Machine Learning, PyTorch, and Cloud AI services**.
+- 🧠 Interested in backend development, data-driven applications, AI, and cybersecurity.
+- 💬 Ask me about Python, JavaScript, Java, data analytics, and transfer learning.
+- 📍 Bengaluru, India.
 
 ## 🧰 Tech Stack
 
@@ -69,7 +56,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -89,12 +76,24 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankGoutam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGoutam&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="165" alt="Most used programming languages" />
-  <br/>
+
+  <a href="https://github.com/ShashankGoutam?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0ea5e9?style=for-the-badge&logo=github" alt="Explore my repositories" />
+  </a>
+  <a href="https://github.com/ShashankGoutam?tab=stars">
+    <img src="https://img.shields.io/badge/View-My%20Stars-f59e0b?style=for-the-badge&logo=github" alt="View my stars" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com?user=ShashankGoutam&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankGoutam&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=F59E0B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+  <p>
+    <a href="https://github.com/ShashankGoutam">
+      <b>View my live contribution calendar and activity on GitHub →</b>
+    </a>
+  </p>
+
 </div>
 
 ## 🤝 Let's Connect
