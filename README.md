@@ -104,7 +104,7 @@
   </p>
 
   <h3>Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=ShashankGoutam&hide_border=true&background=FFFFFF&ring=2563EB&fire=EA580C&currStreakLabel=1D4ED8&currStreakNum=0F172A&sideLabels=334155&sideNums=0F172A&dates=64748B" width="85%" alt="GitHub contribution streak on a light background" />
+  <img src="https://streak-stats.demolab.com?user=ShashankGoutam&hide_border=true&background=241A35&ring=2DD4BF&fire=F59E0B&currStreakLabel=5EEAD4&currStreakNum=F8FAFC&sideLabels=C4B5FD&sideNums=F8FAFC&dates=A78BFA" width="85%" alt="GitHub contribution streak with a deep plum background and teal accents" />
 
   <p><b>Want the full contribution calendar?</b></p>
   <a href="https://github.com/ShashankGoutam">
